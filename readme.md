@@ -1,7 +1,7 @@
-# ARConference Back
-GraphQL + Prisma 
+# Prismagram
+GraphQL + Prisma + Express + React + ReactNative
 
-# Feature
+# To Do
 
 - [x] Create account
 - [x] Request Secret
